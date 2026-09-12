@@ -1,8 +1,3 @@
-Absolutely. Since this is going on GitHub and you want it to **cover the complete project**, use the following as your `README.md`. It includes the dataset, EDA, preprocessing, TF-IDF, both models, evaluation metrics, confusion matrix, recall discussion, WordCloud, prediction, project structure, installation, and future improvements.
-
-Replace your current `README.md` completely with this:
-
-````markdown
 # 📧 Email Spam Detection using NLP & Machine Learning
 
 ## 📌 Project Overview
